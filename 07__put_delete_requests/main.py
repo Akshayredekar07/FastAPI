@@ -112,6 +112,15 @@ def sort(sort_by: str = Query(..., description="Sort the patient data based on h
     if order not in ['asc', 'desc']:
         raise HTTPException(status_code=404, detail="Invalid order seleted between asc and desc")
 
+    data = load_data()
+
+    sort_order = True if order=='desc' else False
+
+    sorted_data = sorted(data.values(), key=lambda x: x.get(sort_by, 0), reverse=sort_order)
+
+    return sorted_data
+
+
 
 
 @app.post('/create')

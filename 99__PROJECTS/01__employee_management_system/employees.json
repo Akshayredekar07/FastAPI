@@ -1,0 +1,76 @@
+{
+  "E001": {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "department": "Software Development",
+    "date_joined": "2022-03-10",
+    "salary": "75000.00"
+  },
+  "E002": {
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "department": "Human Resources",
+    "date_joined": "2021-08-15",
+    "salary": "60000.00"
+  },
+  "E003": {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "department": "Marketing",
+    "date_joined": "2023-01-20",
+    "salary": "65000.00"
+  },
+  "E004": {
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@example.com",
+    "department": "Finance",
+    "date_joined": "2020-11-05",
+    "salary": "80000.00"
+  },
+  "E005": {
+    "name": "Rohan Kumar",
+    "email": "rohan.kumar@example.com",
+    "department": "Data Science",
+    "date_joined": "2024-02-12",
+    "salary": "90000.00"
+  },
+  "E006": {
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@example.com",
+    "department": "Operations",
+    "date_joined": "2022-09-30",
+    "salary": "70000.00"
+  },
+  "E007": {
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "department": "Product Management",
+    "date_joined": "2021-04-25",
+    "salary": "85000.00"
+  },
+  "E008": {
+    "name": "Kavya Nair",
+    "email": "kavya.nair@example.com",
+    "department": "Customer Support",
+    "date_joined": "2023-06-10",
+    "salary": "55000.00"
+  },
+  "E009": {
+    "name": "Aditya Joshi",
+    "email": "aditya.joshi@example.com",
+    "department": "Quality Assurance",
+    "date_joined": "2024-05-15",
+    "salary": "62000.00"
+  },
+  "E010": {
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "department": "Research and Development",
+    "date_joined": "2020-07-01",
+    "salary": "95000.00"
+  },
+  "E665": {
+    "name": "Pranav Kale",
+    "email": "p.kale@example.com",
+    "department": "Flutter Development",
+    "date_joined": 
