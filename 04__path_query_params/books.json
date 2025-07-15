@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "isbn": "978-0131103627",
+        "title": "The C Programming Language",
+        "author": "Brian W. Kernighan, Dennis M. Ritchie",
+        "programming_language": "C",
+        "publisher": "Prentice Hall",
+        "price": 39.99,
+        "publication_year": 1988
+    },
+    {
+        "id": 2,
+        "isbn": "978-0132350884",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "programming_language": "Java",
+        "publisher": "Prentice Hall",
+        "price": 45.99,
+        "publication_year": 2008
+    },
+    {
+        "id": 3,
+        "isbn": "978-0596007126",
+        "title": "Head First Design Patterns",
+        "author": "Eric Freeman, Elisabeth Robson",
+        "programming_language": "Java",
+        "publisher": "O'Reilly Media",
+        "price": 54.99,
+        "publication_year": 2004
+    },
+    {
+        "id": 4,
+        "isbn": "978-1491919538",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "programming_language": "Python",
+        "publisher": "No Starch Press",
+        "price": 29.99,
+        "publication_year": 2015
+    },
+    {
+        "id": 5,
+        "isbn": "978-0134685991",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "programming_language": null,
+        "publisher": "MIT Press",
+        "price": 89.99,
+        "publication_year": 2009
+    }
+]
